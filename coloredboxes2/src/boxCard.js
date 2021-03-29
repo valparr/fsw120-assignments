@@ -1,6 +1,6 @@
 import React from 'react'
 
-function boxCard(props) {
+function BoxCard(props) {
     return (
         <div style={{backgroundColor:props.bgcolor, color:props.color, textAlign:"center", }}>
             <h1>{props.title}</h1>
@@ -10,4 +10,4 @@ function boxCard(props) {
   )
 }
 
-export default boxCard
+export default BoxCard;
