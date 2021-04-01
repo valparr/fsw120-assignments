@@ -2,11 +2,10 @@ import React from 'react'
  
 function BlogPost(props) {
     return (
-        <div style={{textAlign:"center"}}>
-            <h2>{props.title}</h2>
-            <h3>{props.subTitle}</h3>
-            <p>{props.author}</p>
-            <p>{props.date}</p>
+        <div className="props">
+            <h1>{props.title}</h1>
+            <h4>{props.subTitle}</h4>
+            <p>Posted by <strong>{props.author}</strong></p><p>on {props.date}</p>
         </div>
     )
 }

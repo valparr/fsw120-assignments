@@ -35,21 +35,21 @@ const data = [
 ]
 
 
-    let myPost = this.props.data);
-    {myPost.map((props, i) => (
-        <li>{props.title}</li>
-        
-        subTitle={props.subTitle}
-        author={props.author}
-        date={props.date}
-        )
-        <li key={i}></li> />)
+function BlogList() {
+    const blogComponents = data.map(blog => <BlogPost 
+        key={blog.id}
+        title={blog.title}
+        subTitle={blog.subTitle}
+        author={blog.author}
+        date={blog.date}
+        />)
+
         return (
-            <div>
-                { myPost }
-            </div>
-    )
+            <div>{blogComponents}</div>
+        )
 }
 
 
-export default BlogList 
+
+
+export default BlogList
