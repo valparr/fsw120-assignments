@@ -1,6 +1,6 @@
 import React from 'react';
 
-export class Header extends React.Component {
+export default class Header extends React.Component {
     render() {
         return (
             <nav className="navbar navabar-default">
@@ -13,7 +13,10 @@ export class Header extends React.Component {
                             <li><a href="#">CONTACT</a></li>
                         </ul>
                     </div>
+                    <h1>Clean Blog</h1>
+                    <h4>A Blog Theme by Start Boostrap</h4>
                 </div>
+                
             </nav>
         )
     }
