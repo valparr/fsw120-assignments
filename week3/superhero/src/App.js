@@ -1,5 +1,5 @@
 import React from 'react'
-import './index.css';
+import './hero.css';
 import Header from './Header.js'
 import SuperHeroList from './SuperHeroList.js'
 import Footer from './Footer.js'

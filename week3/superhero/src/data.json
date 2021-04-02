@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Cheetara",
+        "show": "ThunderCats",
+        "catchPhrase": "I am Cheetara. In my heart, I know I'm the strongest of my kind. The pride of my people. I am unique in this universe. And I will *not be DEFEATED*!",
+        "imageName": "images/Cheetara.jpg",
+        "bgcolor": "#C9002B",
+        "color": "white"
+    },
+    {
+        "name": "Skeletor",
+        "show": "Masters of the Universe",
+        "catchPhrase": "Listen, I am not nice, I am not kind and I am NOT WONDERFUL!",
+        "imageName": "images/Skeletor.png",
+        "bgcolor": "#004B93",
+        "color": "white"
+    },
+    {
+        "name": "Maya",
+        "show": "Maya the Bee",
+        "catchPhrase": "It certainly is a great day to be alive.",
+        "imageName": "images/Maya.jpg",
+        "bgcolor": "#C9002B",
+        "color": "white"
+    },
+    {
+        "name": "Vickie",
+        "show": "Vickie the Viking",
+        "catchPhrase": "Ah-HA!",
+        "imageName": "images/Vickie.jpg",
+        "bgcolor": "#004B93",
+        "color": "white"
+    },
+    {
+        "name": "Borrie Veldt",
+        "show": "Die Swart Kat",
+        "catchPhrase": "Die Swart Kat slaan toe.",
+        "imageName": "images/Borrie.jpg",
+        "bgcolor": "#C9002B",
+        "color": "white"
+    },
+    {
+        "name": "TinTin",
+        "show": "The Calculus Affair",
+        "catchPhrase": "They're trying to stop us with that ramshackle erection!",
+        "imageName": "images/TinTin.jpg",
+        "bgcolor": "#004B93",
+        "color": "white"
+    },
+    {
+        "name": "Obelix",
+        "show": "Asterix and Obelix",
+        "catchPhrase": "Ils sont fous ces romains!",
+        "imageName": "images/Obelix.jpg",
+        "bgcolor": "#C9002B",
+        "color": "white"
+    },
+    {
+        "name": "Levinia",
+        "show": "Liewe Heksie",
+        "catchPhrase": "O Griet!",
+        "imageName": "images/Levinia.jpg",
+        "bgcolor": "#004B93",
+        "color": "white"
+    },
+    {
+        "name": "Zummi",
+        "show": "Gummy Bears",
+        "catchPhrase": "As you all know, the Great Book of Gummi will never be finished.",
+        "imageName": "images/Zummie.jpg",
+        "bgcolor": "#C9002B",
+        "color": "white"
+    }
+]
